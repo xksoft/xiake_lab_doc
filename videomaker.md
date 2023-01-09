@@ -1,4 +1,4 @@
-软件包下载地址：https://github.com/xksoft/VideoMaker/releases/download/Release/publish.zip
+
 
 ## 使用教程
 
