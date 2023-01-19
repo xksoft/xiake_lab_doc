@@ -1,4 +1,8 @@
 
+### 源码获取
+
+![xksoft](https://user-images.githubusercontent.com/24860541/212224516-f0f95ee9-1c71-4e0d-a5cf-9549af3c26fc.jpg)
+
 
 ## 使用教程
 
@@ -36,8 +40,4 @@
 ![image](https://user-images.githubusercontent.com/24860541/210512723-6dcb6465-42bb-4950-9c12-331bf0aa3d7a.png)
 
 等待合成完毕后即可看到生成结果。
-
-### 源码获取
-
-![xksoft](https://user-images.githubusercontent.com/24860541/212224516-f0f95ee9-1c71-4e0d-a5cf-9549af3c26fc.jpg)
 
